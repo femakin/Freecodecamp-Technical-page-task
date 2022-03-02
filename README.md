@@ -10,7 +10,7 @@
 
 **Hosted Url**
 
-[Hostedurl](https://femakin.github.io/Freecodecamp-Product-Page-Task/)
+[Hostedurl](https://femakin.github.io/Freecodecamp-Technical-page-task/)
 
 
 User Story #1: I can see a main element with a corresponding id="main-doc", which contains the page's main content (technical documentation).
